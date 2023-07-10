@@ -1,0 +1,20 @@
+Aufgabe 5: Zahl erraten
+=====================
+Aufgabe 4 so umsetzen, dass Sie selbst die Zahl generieren (also sich eine Zahl ausdenken) und der Computer soll die Zahl erraten.
+
+Sie entscheiden sich für eine Zahl.
+
+Der Computer macht einen Rateversuch und Sie teilen das Ergebnis mit über eine Eingabe:
+
+- g für größer
+- k für kleiner
+- o für OK (Zahl erraten)
+
+beachten Sie dabei, dass der Computer sinnvolle Grenzen für die Rateversuche einhält.
+=======================
+Variable: von
+Variable: bis
+=======================
+Rateversuch vom Computer:
+Methode 1: Computer generiert eine Zufallszahl rd.nextInt(von, bis)
+Methode 2: Ohne Zufallszahl (die Hälfte des möglichen Wertebereich auswählen)

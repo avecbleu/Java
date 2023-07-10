@@ -1,0 +1,16 @@
+
+Zufallszahl generieren
+int anzahlVersuche=1
+
+wiederhole
+    Anzahl d. Versuche ausgeben
+    Eingabe von Rateversuch
+    if ( Zufallszahl == Rateversuch )
+      "Gratulation" ausgeben
+      Schleife verlassen oder break
+    else if ( Zufallszahl > Rateversuch )
+      "Größer" ausgeben
+    else
+      "Kleiner" ausgeben
+    anzahlVersuche++
+wiederhole-ende

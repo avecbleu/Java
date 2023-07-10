@@ -1,0 +1,3 @@
+Aufgabe 6: PAP und Pseudo
+=====================
+Die Teilaufgaben von Aufgabe 1 mit PAPs und PseudoCodes bitte umsetzen.

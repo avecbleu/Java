@@ -1,0 +1,18 @@
+Aufgabe 4: Zahl erraten
+=====================
+Das zu Programmierende Programm soll eine Zufallszahl (int, 1 <= zahl <=100) generieren.
+Der User soll diese erraten.
+Nach jedem versuch soll der User darüber informiert werden,
+der wie vielte Versuch es war, ob er richtig oder falsch liegt, und
+wenn er falsch liegt ob die gesuchte Zahl grösser oder kleiner als die vom User eingegebene ist.
+
+Anweisung für Zufallszahl:
+    Random rd = new Random();
+    int generatedNummber = rd.nextInt(1, 100);
+
+Sie haben die Wahl, ob Sie eine Konsolen- oder GUI-Eingabe (JOptionPane) implementieren.
+
+========================================
+Teil 2:
+Die Möglichkeit einbauen, mehrmals das Spiel zu spielen oder zu beenden
+

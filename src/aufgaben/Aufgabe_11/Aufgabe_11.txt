@@ -1,0 +1,8 @@
+Aufgabe: Quadrat (Objektorientierung)
+=======================
+Definieren Sie eine Klasse Quadrat, die eine Instanzvariable a vom Typ int besitzt, welches die Seitenlänge eines Quadrates angibt.
+Im Konstruktor der Klasse wird ein int-Wert zum Initialisieren der Instanzvariable übergeben.
+Implementieren Sie eine Methode flaeche() für die Berechnung des Flächeninhaltes eines Quadrates mit der Formel f = a * a.
+
+Die Klasse QuadratTest erzeugt eine Instanz der Klasse Quadrat, berechnet auf zwei Arten deren Flächeninhalt über den Aufruf der
+Methoden der Klasse und zeigt die errechneten Ergebnisse am Bildschirm an.

@@ -1,0 +1,17 @@
+Aufgabe 7: Palindrome
+=====================
+PseudoCode oder PAP für folgende Funktionalität erstellen:
+Ein übergebenes String prüfen, ob es ein Palindrome ist.
+===================================================================
+Für die Kodierung in Java eine Methode dafür erstellen:
+
+isPalindrome("Hallo") => false
+isPalindrome("Die Liebe ist Sieger stets rege ist sie bei Leid") => true
+===================================================================
+public static boolean isPalindrome(String input) { ... }
+===================================================================
+Hinweise über String:
+str2 = str1.replaceAll("A","B"); // alle A's mit B's ersetzen
+str2 = str1.toUperrCase(); // in Großbuchstaben umwandeln
+str2 = str1.toLowerCase(); // in Kleinbuchstaben umwandeln
+str2.equals(str1);  // feststellen, ob 2 Strings gleich sind

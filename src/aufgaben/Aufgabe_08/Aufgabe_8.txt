@@ -1,0 +1,11 @@
+Eine Klasse Person erstellen mit folgenden Attributen:
+- Vorname, Nachname
+Die Klasse soll automatisch die Anzahl aller Instanzen hochzählen, jedes Mal, wenn eine Instanz der Klasse Person erstellt wird.
+
+Eine Klasse PersonTest mit main()-Methode erstellen.
+Diese soll mehrere Instanzen der Person-Klasse erstellen und anschließend die Anzahl der Instanzen ausgeben.
+
+Es soll möglich sein, die Anzahl der Instanzen über einen Methodenaufruf auszugeben
+
+
+P.S. Eine Instanz/Ein Objekt wird nur über Konstruktoren erstellt: new Person();

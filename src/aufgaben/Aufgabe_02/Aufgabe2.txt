@@ -1,0 +1,20 @@
+Aufgabe prozedurale_oo_programmierung.t01_refresh_grundlagen.p01_struktugramme.p05_aufgabe_bmi.BMIRechner folgendermaßen erweitern:
+Zu jedem Teil der Augabe das Sturktugramm aktualisieren
+
+Teil A:
+=======
+Nach der Ausgabe von BMI Fallunterscheidung einbauen:
+wenn bmi >= 40 => Ausgabe "Adipositas Grad III"
+wenn bmi >= 35 => Ausgabe "Adipositas Grad II"
+wenn bmi >= 30 => Ausgabe "Adipositas Grad I"
+wenn bmi >= 25 => Ausgabe "Übergewicht"
+wenn bmi >= 20 => Ausgabe "Normalgewicht"
+ansonsten => Untergewicht
+
+
+Teil B:
+=======
+Die Ausführung wird solange wiederholt, bis man beim Gewicht eine
+0 eingibt.
+
+Anweisung für Unterbrechnung der Schleife: break;

@@ -1,0 +1,7 @@
+Primtive Datentypen
+byte, short, int, long // Ganzahlen
+float, double          // Fließkommezahlen
+boolean (true/false), char (ein Zeihen)
+
+Referenztypen:
+String, System, ...

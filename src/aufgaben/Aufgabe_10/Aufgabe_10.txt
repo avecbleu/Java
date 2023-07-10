@@ -1,0 +1,7 @@
+Aufgabe: PC-Verwaltung
+=======================
+Erstellen Sie ein Programm, dass eine Reihe von PCs verwalten kann.
+Es wird eine Klasse names "PC" benötigt.
+Diese Klasse hat folgende Attribute: "bezeichung", "prozessorGeschwindigkeit", "ram", "festplattengröße" und folgende Methoden: starten(), runterfahren(), inSchlafModusGehen(), printInfo().
+Es wird eine TestKlasse benötigt, die mehrere Objekte vom Typ "PC" erstellt und mit Werten befüllt und anschließend ausgibt.
+(anhand einer Instanzmethode printInfo())

@@ -1,0 +1,6 @@
+Die Aufgabe BMI-Rechner auf die Anwendung GUI-Mitteln anpassen:
+Benutzen Sie für die Eingaben und Ausgaben JOptionPane-Methoden()
+(siehe Klasse: EingabeAusgabeMitJOptionPane)
+
+
+

@@ -1,0 +1,8 @@
+Aufgabe: static/non-static
+==========================
+
+Eine Anwendung von static ist in Verbindung mit Utility-Klassen.
+
+Erstellen Sie eine Utility-Klasse namens "MathUtil", die verschiedene (überladene) Methoden für die Summenberechnung (mit 2/3/4 Parametern)  und verschiedene (überladene) Methoden für die Produktberechnung (mit 2/3/4 Parametern) implementiert.
+
+Erstellen Sie eine Test-Klasse mit einer main()-Methode für den Test der verschiedenen Methoden von MathUtil.
